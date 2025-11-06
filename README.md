@@ -4,7 +4,7 @@
 
   - [AWS](https://github.com/SnipodZ/AWS)
 
-  - [AWS Jam]([https://github.com/SnipodZ/AWS](https://github.com/SnipodZ/AWS/tree/main/AWS%20Jam))
+  - [AWS Jam](https://github.com/SnipodZ/AWS/tree/main/AWS%20Jam)
   
     
 <h2>Certificaciones</h2>
