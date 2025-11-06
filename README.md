@@ -1,10 +1,9 @@
 <h1>Hola, soy Soma! <br/><a href="https://github.com/SnipodZ">Administrador de sistemas</a>, <a href="https://www.linkedin.com/in/SnipodZ/">Representante de Canarias en CloudCompouting en SpainSkills 2026</a>
 
-<h2>👨‍💻 Proyectos AWS Jam</h2>
+<h2>👨‍💻 Proyectos AWS</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
+  - [AWS Jam](https://github.com/SnipodZ/AWS)
+  - [AWS] (https://github.com/SnipodZ/AWS)
 <h2>Certificaciones</h2>
 
   - [MTCNA](https://github.com/SnipodZ)
