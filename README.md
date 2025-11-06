@@ -21,7 +21,7 @@
 [<img align="left" alt="Soma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [linkedin]: https://www.linkedin.com/in/soma-donoval-699090294/
-
+<br>
 <h2>License</h2>
 Este proyecto está bajo la licencia GPL 3.0. <br>
 Consulta el archivo LICENSE para más detalles.
