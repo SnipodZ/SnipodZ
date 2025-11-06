@@ -1,19 +1,19 @@
-<h1>Hola, soy Soma! <br/><a href="https://github.com/SnipodZ">Administrador de sistemas</a>, <a href="https://www.linkedin.com/in/SnipodZ/">Representante de Canarias en CloudCompouting en SpainSkills 2026</a>
+<h1>Hi, I'm Soma! <br/><a href="https://github.com/SnipodZ">Network Systems Administrator</a>, <a href="https://www.linkedin.com/in/SnipodZ/">Canarian rep. in the 2026 Spain Skills Cloud Computing modality</a>
 
-<h2>👨‍💻 Proyectos AWS</h2>
+<h2>👨‍💻 AWS Projects</h2>
 
   - [AWS](https://github.com/SnipodZ/AWS)
 
   - [AWS Jam](https://github.com/SnipodZ/AWS/tree/main/AWS%20Jam)
   
     
-<h2>Certificaciones</h2>
+<h2>Certifications</h2>
 
 - [MTCNA](https://github.com/SnipodZ/Certs/blob/main/MTCNA.pdf)
 
 <h2>📺 Scripts Bash</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Proyectos BASH](https://github.com/SnipodZ/Bash)
 
 <h2> 🤳 Connect with me:</h2>
 
