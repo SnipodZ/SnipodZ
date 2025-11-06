@@ -10,7 +10,9 @@
 <h2>Certifications</h2>
 
 - [MTCNA](https://github.com/SnipodZ/Certs/blob/main/MTCNA.pdf)
-
+- [CCNA] - In progress
+- [AWS SAA] - In progress
+ 
 <h2>📺 Scripts Bash</h2>
 
 - [Proyectos BASH](https://github.com/SnipodZ/Bash)
