@@ -2,8 +2,11 @@
 
 <h2>👨‍💻 Proyectos AWS</h2>
 
-  - [AWS Jam](https://github.com/SnipodZ/AWS)
-  - [AWS] (https://github.com/SnipodZ/AWS)
+  - [AWS](https://github.com/SnipodZ/AWS)
+
+  - [AWS Jam]([https://github.com/SnipodZ/AWS](https://github.com/SnipodZ/AWS/tree/main/AWS%20Jam))
+  
+    
 <h2>Certificaciones</h2>
 
   - [MTCNA](https://github.com/SnipodZ)
