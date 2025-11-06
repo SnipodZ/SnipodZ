@@ -9,9 +9,8 @@
     
 <h2>Certificaciones</h2>
 
-  - [MTCNA]([https://github.com/SnipodZ](https://github.com/SnipodZ/Certs/MTCNA.pdf)
-    
-  
+- [MTCNA](https://github.com/SnipodZ/Certs/MTCNA.pdf)
+
 <h2>📺 Scripts Bash</h2>
 
 - [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
