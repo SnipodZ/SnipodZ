@@ -9,7 +9,7 @@
     
 <h2>Certificaciones</h2>
 
-- [MTCNA](https://github.com/SnipodZ/Certs/MTCNA.pdf)
+- [MTCNA](https://github.com/SnipodZ/Certs/blob/main/MTCNA.pdf)
 
 <h2>📺 Scripts Bash</h2>
 
