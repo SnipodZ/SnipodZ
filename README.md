@@ -20,6 +20,6 @@
 [linkedin]: https://www.linkedin.com/in/soma-donoval-699090294/
 
 <h2>License</h2>
-Este proyecto está bajo la licencia GPL 3.0.
+Este proyecto está bajo la licencia GPL 3.0. <br>
 Consulta el archivo LICENSE para más detalles.
 
