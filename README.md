@@ -13,12 +13,11 @@
 - [CCNA] - In progress
 - [AWS SAA] - In progress
  
-<h2>📺 Scripts Bash</h2>
+<h2>📺 Academic projectsh2>
 
-- [Proyectos BASH](https://github.com/SnipodZ/Bash)
+- 
 
 <h2> 🤳 Connect with me:</h2>
-
 
 [<img align="left" alt="Soma | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
