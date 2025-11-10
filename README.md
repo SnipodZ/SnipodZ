@@ -13,7 +13,7 @@
 - [CCNA] - In progress
 - [AWS SAA] - In progress
  
-<h2>📺 Academic projectsh2>
+<h2>📺 Academic projects</h2>
 
 - 
 
