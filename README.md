@@ -15,7 +15,7 @@
  
 <h2>📺 Academic projects</h2>
 
-- 
+- [All Projects](https://github.com/SnipodZ/Academic-projects)
 
 <h2> 🤳 Connect with me:</h2>
 
