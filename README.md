@@ -10,7 +10,7 @@
 <h2>Certifications</h2>
 
 - [MTCNA](https://github.com/SnipodZ/Certs/blob/main/MTCNA.pdf)
-- [AWS SAA](https://github.com/SnipodZ/Certs/blob/main/AWSCertifiedSolutionsArchitect-Associate.pdf)
+- [AWS SAA](https://github.com/SnipodZ/Certs/blob/main/AWS%20SAA.pdf)
 - [CCNA] - In progress
  
 <h2>📺 Academic projects</h2>
