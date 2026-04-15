@@ -16,7 +16,7 @@
 <h2>📺Implementation-Projects</h2>
 
 - [Academic Projects](https://github.com/SnipodZ/Academic-projects)
-- [BSV-FullStack Projects] 
+- [BSV-FullStack Projects](https://github.com/SnipodZ/BSV-FullStack-Projects) 
 
 <h2> 🤳 Connect with me:</h2>
 
